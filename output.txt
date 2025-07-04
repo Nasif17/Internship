@@ -1,0 +1,36 @@
+=== Log Analysis Report ===
+File: access.log
+Analysis Period: 2023-10-10 08:15:23 to 2023-10-10 19:45:26
+
+SUMMARY:
+- Total Requests: 174
+- Unique IP Addresses: 6
+- Average Response Size: 1210 bytes
+- Error Rate: 5.7%
+
+TOP IP ADDRESSES:
+1. 192.168.1.100 (35 requests)
+2. 172.16.0.15 (35 requests)
+3. 203.0.113.45 (35 requests)
+4. 198.51.100.78 (34 requests)
+5. 10.0.0.5 (18 requests)
+
+STATUS CODE DISTRIBUTION:
+- 2xx Success: 164 (94.3%)
+- 3xx Redirect: 0 (0.0%)
+- 4xx Client Error: 6 (3.4%)
+- 5xx Server Error: 4 (2.3%)
+
+TOP ENDPOINTS:
+1. /api/users (6 requests)
+2. /api/login (3 requests)
+3. /dashboard (3 requests)
+4. /api/orders (2 requests)
+5. /api/events (2 requests)
+6. /api/widgets (2 requests)
+7. /api/plugins (2 requests)
+8. /api/integrations (2 requests)
+9. /api/webhooks (2 requests)
+10. /api/products (1 requests)
+
+Malformed lines skipped: 2
