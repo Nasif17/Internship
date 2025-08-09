@@ -125,5 +125,6 @@ No additional packages required (uses Python standard library)
 
 👤 Author
 Nasif Rafidi
-📧 your.email@example.com
-🔗 [Your GitHub/LinkedIn Profile]
+📧 rafidinasif117@gmail.com
+🔗 (https://github.com/Nasif17)
+🔗(https://www.linkedin.com/in/md-nasif-rafidi-63a13b265/)
